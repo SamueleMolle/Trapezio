@@ -24,6 +24,8 @@ public class Trapezio {
 		return area;
 	}
 	
+	//Versione 1
+	
 	public static void main(String[] args) {
 		Trapezio trap = new Trapezio();
 		int bMin = Lettura.leggiI("Inserire la base minore : ");
