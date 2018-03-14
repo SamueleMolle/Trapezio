@@ -11,6 +11,7 @@ public class Trapezio {
 	public Trapezio() {
 		
 	}
+	//Versione 0
 	
 	/**
 	 * Metodo per il calcolo dell'area del trapezio
